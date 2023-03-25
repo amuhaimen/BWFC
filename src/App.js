@@ -7,6 +7,7 @@ function App() {
     <>
       <Navbar />
       <Banner />
+      <h1>hello</h1>
     </>
   );
 }
